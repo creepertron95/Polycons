@@ -1,0 +1,15 @@
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="46" height="46" ry="16" style="fill:#9f23da;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <path d="m32 25v21.949c0.67858-0.041679 1.3474-0.1153 2-0.23828v-21.711h-2z" style="fill:#2d2d2d;paint-order:stroke fill markers"/>
+ <path d="m1 27v4c0 8.864 7.136 16 16 16h14c8.864 0 16-7.136 16-16v-4c0 8.864-7.136 16-16 16h-14c-8.864 0-16-7.136-16-16z" style="opacity:.2;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <circle cx="24" cy="26" r="10" style="opacity:.2;paint-order:stroke fill markers"/>
+ <circle cx="24" cy="25" r="10" style="fill:#ccc;paint-order:stroke fill markers"/>
+ <circle cx="24" cy="20" r="3" style="fill:#2d2d2d;paint-order:stroke fill markers"/>
+ <circle cx="19" cy="25" r="3" style="fill:#2d2d2d;paint-order:stroke fill markers"/>
+ <circle cx="29" cy="25" r="3" style="fill:#2d2d2d;paint-order:stroke fill markers"/>
+ <circle cx="24" cy="30" r="3" style="fill:#2d2d2d;paint-order:stroke fill markers"/>
+ <circle cx="24" cy="25" r="1" style="fill:#2d2d2d;paint-order:stroke fill markers"/>
+ <path d="m24 5c-6.5 0-14 5-14 13v1.1406c-2.2718 0.42179-5 1.766-5 5.8594 0 6 8 6 8 6v-11-1-1c0-7 5.5-10 11-10s11 3 11 10v1 1 11s8 0 8-6c0-4.0934-2.7282-5.4376-5-5.8594v-1.1406c0-8-7.5-13-14-13z" style="opacity:.2"/>
+ <path d="m10 19h3v-2c0-7 5.5-10 11-10s11 3 11 10v2h3v-2c0-8-7.5-13-14-13s-14 5-14 13z" style="fill:#999"/>
+ <path d="m11.75 17.953c-2.25 0.046875-6.75 0.79688-6.75 6.0469 0 6 8 6 8 6v-12s-0.5-0.0625-1.25-0.046875zm24.5 0c-0.75-0.015625-1.25 0.046875-1.25 0.046875v12s8 0 8-6c0-5.25-4.5-6-6.75-6.0469z" style="fill:#b3b3b3"/>
+</svg>

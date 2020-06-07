@@ -1,0 +1,17 @@
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient1825" x1="18" x2="18" y1="20" y2="37" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#16bef0" offset="0"/>
+   <stop style="stop-color:#1688f0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m17 1c-5.614 0-10.529 2.8677-13.383 7.2188l43.383 15.426v-6.6445c0-8.864-7.136-16-16-16h-14z" style="fill:#f3c32b"/>
+ <path d="m3.9609 7.7246c-1.8596 2.6146-2.9609 5.8086-2.9609 9.2754v14c0 4.8636 2.1571 9.1972 5.5605 12.127l40.439-13.785v-5.7109l-43.039-15.906z" style="fill:#3ebf11"/>
+ <path d="m47 28.387-39.697 15.336c2.6889 2.0493 6.0405 3.2773 9.6973 3.2773h14c8.864 0 16-7.136 16-16v-2.6133z" style="fill:#7ccf10"/>
+ <path d="m4.4297 8.0977c-0.8098 1.0281-1.4949 2.1562-2.0352 3.3672l44.605 14.869v-4.6133l-42.57-13.623zm42.57 19.611-41.309 14.629c1.1073 1.1044 2.3783 2.0429 3.7715 2.7852l37.469-12.738c0.03892-0.45718 0.068359-0.91718 0.068359-1.3848v-3.291z" style="opacity:.2"/>
+ <path d="m4.4297 7.0977c-0.8098 1.0281-1.4949 2.1562-2.0352 3.3672l44.605 14.869v-4.6133l-42.57-13.623zm42.57 19.611-41.998 14.873c0.98737 1.1195 2.1264 2.0979 3.3906 2.9043l38.59-13.119c0.002777-0.12329 0.017578-0.24321 0.017578-0.36719v-4.291z" style="fill:#f9f9f9"/>
+ <path d="m1 27v4c0 8.864 7.136 16 16 16h14c8.864 0 16-7.136 16-16v-4c0 8.864-7.136 16-16 16h-14c-8.864 0-16-7.136-16-16z" style="opacity:.2;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <ellipse cx="18" cy="39" rx="4" ry="2" style="opacity:.1;paint-order:stroke fill markers"/>
+ <path d="m16 40-1-8-4-1s-5-14 7-14 7 14 7 14l-4 1-1 8z" style="fill:#f9f9f9"/>
+ <path d="m17 39h2l1-8 4-1s4-12-6-12-6 12-6 12l4 1z" style="fill:url(#linearGradient1825)"/>
+</svg>

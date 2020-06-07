@@ -1,0 +1,20 @@
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient870" x1="24" x2="24" y1="12" y2="16" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#f9f9f9" offset="0"/>
+   <stop style="stop-color:#e6e6e6" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="1" y="1" width="46" height="46" ry="16" style="fill:#898989;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <path d="m1 27v4c0 8.864 7.136 16 16 16h14c8.864 0 16-7.136 16-16v-4c0 8.864-7.136 16-16 16h-14c-8.864 0-16-7.136-16-16z" style="opacity:.2;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <rect x="19.928" y="1.036" width="8" height="32" style="opacity:.4;paint-order:stroke fill markers"/>
+ <path d="m22 1c1 3.1071 1 5.1786 1 5.1786v23.821h2v-23.821s0-2.0714 1-5.1786h-3z" style="fill:#2d2d2d;paint-order:stroke fill markers;stroke-width:1.0177"/>
+ <path d="m24 17v1h2v-1zm0 1h-2v1h2zm0 1v1h2v-1zm0 1h-2v1h2zm0 1v1h2v-1zm0 1h-2v1h2zm0 1v1h2v-1zm0 1h-2v1h2zm0 1v1h2v-1zm0 1h-2v1h2zm0 1v1h2v-1zm0 1h-2v1h2zm0 1v1h2v-1z" style="opacity:.1;paint-order:stroke fill markers"/>
+ <path d="m24 16v1h2v-1h-2zm0 1h-2v1h2v-1zm0 1v1h2v-1h-2zm0 1h-2v1h2v-1zm0 1v1h2v-1h-2zm0 1h-2v1h2v-1zm0 1v1h2v-1h-2zm0 1h-2v1h2v-1zm0 1v1h2v-1h-2zm0 1h-2v1h2v-1zm0 1v1h2v-1h-2zm0 1h-2v1h2v-1zm0 1v1h2v-1h-2z" style="fill:#808080;paint-order:stroke fill markers"/>
+ <path d="m23 13-1 2v6s0 2 2 2 2-2 2-2v-6l-1-2h-2zm0 4h2v1c0 0.554-0.446 1-1 1s-1-0.446-1-1v-1zm0.5 4h1c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-1c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" style="opacity:.2"/>
+ <path d="m23 16h2l1-2-1-2h-2l-1 2z" style="fill:#ccc"/>
+ <path d="m22 14v6s0 2 2 2 2-2 2-2v-6zm2 1c0.554 0 1 0.446 1 1v1c0 0.554-0.446 1-1 1s-1-0.446-1-1v-1c0-0.554 0.446-1 1-1zm-0.5 5h1c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-1c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z" style="fill:#e6e6e6"/>
+ <rect x="23" y="12" width="2" height="4" ry="1" style="fill:url(#linearGradient870);paint-order:stroke fill markers"/>
+ <rect x="30" y="22" width="15" height="11" style="fill:#2d2d2d;paint-order:stroke fill markers;stroke-width:1.0742"/>
+ <path d="m31 23v2h4c-3 3-3 7-3 7h2s0-4 3-7v-2h-6zm7 0v9h6v-9h-6zm1 3h4v1l-2.5 3h2.5v1h-4v-1l2.5-3h-2.5v-1z" style="fill:#f9f9f9;paint-order:stroke fill markers;stroke-width:.87831"/>
+</svg>

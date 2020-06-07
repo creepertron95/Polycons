@@ -1,0 +1,12 @@
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m17 1c-0.34887 0-0.69001 0.029002-1.0332 0.050781l-13.967 21.949 12.92 23.852c0.6822 0.088033 1.3732 0.14844 2.0801 0.14844h14c8.864 0 16-7.136 16-16v-14c0-8.864-7.136-16-16-16h-14z" style="fill:#dca967;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <path d="m47 28c0 8.864-7.136 16-16 16h-14c-0.33769 0-0.66763-0.030366-1-0.050781v2c0.33237 0.020415 0.66231 0.050781 1 0.050781h14c8.864 0 16-7.136 16-16v-2z" style="fill:#fff;paint-order:stroke fill markers"/>
+ <path d="m16 1.0508c-8.3921 0.51545-15 7.4229-15 15.949v14c0 8.5263 6.6079 15.434 15 15.949v-45.898z" style="fill:#906c55;paint-order:stroke fill markers;stroke-width:1.0351"/>
+ <path d="m47 28c0 8.864-7.136 16-16 16h-14c-0.33769 0-0.66763-0.030371-1-0.050781v1.0508c0.33237 0.02041 0.66231 0.050781 1 0.050781h14c8.864 0 16-7.136 16-16v-1.0508z" style="opacity:.1;paint-order:stroke fill markers"/>
+ <path d="m1 27v4c0 8.864 7.136 16 16 16h14c8.864 0 16-7.136 16-16v-4c0 8.864-7.136 16-16 16h-14c-8.864 0-16-7.136-16-16z" style="opacity:.2;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <rect transform="scale(-1,1)" x="-17" y="1" width="1" height="46" style="fill:#fff;opacity:.3;paint-order:stroke fill markers"/>
+ <rect transform="scale(-1,1)" x="-16" y="1" width="1" height="46" style="opacity:.3;paint-order:stroke fill markers"/>
+ <path d="m31 13a6 6 0 0 0-6 6 6 6 0 0 0 2.3027 4.7168 10 10 0 0 0-6.3027 9.2832h20a10 10 0 0 0-6.2949-9.2832 6 6 0 0 0 2.2949-4.7168 6 6 0 0 0-6-6z" style="fill:#fff;opacity:.2;paint-order:stroke fill markers"/>
+ <path d="m31 11a6 6 0 0 0-6 6 6 6 0 0 0 2.3027 4.7168 10 10 0 0 0-6.3027 9.2832h20a10 10 0 0 0-6.2949-9.2832 6 6 0 0 0 2.2949-4.7168 6 6 0 0 0-6-6z" style="opacity:.2;paint-order:stroke fill markers"/>
+ <path d="m31 12a6 6 0 0 0-6 6 6 6 0 0 0 2.3027 4.7168 10 10 0 0 0-6.3027 9.2832h20a10 10 0 0 0-6.2949-9.2832 6 6 0 0 0 2.2949-4.7168 6 6 0 0 0-6-6z" style="fill:#6e4141;paint-order:stroke fill markers"/>
+</svg>

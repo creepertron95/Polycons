@@ -1,0 +1,13 @@
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="46" height="46" ry="16" style="fill:#da2323;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <path d="m7.5 11c-0.277 0-0.5 0.223-0.5 0.5v19c0 0.277 0.223 0.5 0.5 0.5h6.5v5.5c0 0.277 0.223 0.5 0.5 0.5h25c0.277 0 0.5-0.223 0.5-0.5v-19c0-0.277-0.223-0.5-0.5-0.5h-6.5v-5.5c0-0.277-0.223-0.5-0.5-0.5h-25z" style="opacity:.2;paint-order:stroke fill markers"/>
+ <path d="m1 27v4c0 8.864 7.136 16 16 16h14c8.864 0 16-7.136 16-16v-4c0 8.864-7.136 16-16 16h-14c-8.864 0-16-7.136-16-16z" style="opacity:.2;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <rect x="14" y="16" width="26" height="20" ry=".5" style="fill:#f9f9f9;paint-order:stroke fill markers"/>
+ <rect x="17" y="19" width="20" height="14" ry=".5" style="fill:#2a89d5;paint-order:stroke fill markers"/>
+ <path d="m17 33 4-4 3 2 4-4 2 2 4-5 3 4v5z" style="fill:#5cd663"/>
+ <path d="m14.5 16c-0.277 0-0.5 0.223-0.5 0.5v14.5h18.5c0.277 0 0.5-0.223 0.5-0.5v-14.5h-18.5z" style="opacity:.1;paint-order:stroke fill markers"/>
+ <rect x="7" y="10" width="26" height="20" ry=".5" style="fill:#f9f9f9;paint-order:stroke fill markers"/>
+ <rect x="10" y="13" width="20" height="14" ry=".5" style="fill:#2a89d5;paint-order:stroke fill markers"/>
+ <path d="m10 27 4-4 3 2 4-4 2 2 4-5 3 4v5z" style="fill:#5cd663"/>
+ <circle cx="15" cy="17" r="2" style="fill:#f4f456;paint-order:stroke fill markers"/>
+</svg>

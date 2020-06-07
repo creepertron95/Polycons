@@ -1,0 +1,16 @@
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="46" height="46" ry="16" style="fill:#8fa3a5;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <path d="m1 27v4c0 8.864 7.136 16 16 16h14c8.864 0 16-7.136 16-16v-4c0 8.864-7.136 16-16 16h-14c-8.864 0-16-7.136-16-16z" style="opacity:.2;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <circle cx="24" cy="22" r="14" style="opacity:.2;paint-order:stroke fill markers"/>
+ <circle cx="24" cy="22" r="13" style="fill:#2d2d2d;paint-order:stroke fill markers"/>
+ <path d="m24 12a10 10 0 0 0-10 10 10 10 0 0 0 10 10 10 10 0 0 0 10-10 10 10 0 0 0-10-10zm0 2a8 8 0 0 1 8 8 8 8 0 0 1-8 8 8 8 0 0 1-8-8 8 8 0 0 1 8-8z" style="fill:#404040;paint-order:stroke fill markers;stroke-width:1.1111"/>
+ <circle cx="24" cy="22" r="7" style="fill:#2e7ce2;paint-order:stroke fill markers"/>
+ <circle cx="24" cy="22" r="6" style="fill:#1b53c1;paint-order:stroke fill markers"/>
+ <circle cx="24" cy="22" r="2" style="fill:#112c7c;paint-order:stroke fill markers"/>
+ <path d="m27.5 21a4.5 4.5 0 0 0-4.5 4.5 4.5 4.5 0 0 0 1.6328 3.4648 7 7 0 0 0 6.3359-6.3262 4.5 4.5 0 0 0-3.4688-1.6387z" style="fill:#fff;opacity:.2;paint-order:stroke fill markers"/>
+ <circle cx="27" cy="25" r="1" style="fill:#fff;opacity:.3;paint-order:stroke fill markers"/>
+ <path d="m21 16a3 3 0 0 0-0.76758 0.10156 7 7 0 0 0-2.1309 2.1445 3 3 0 0 0-0.10156 0.75391 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3z" style="fill:#fff;opacity:.2;paint-order:stroke fill markers"/>
+ <circle cx="38" cy="9" r="2" style="opacity:.2;paint-order:stroke fill markers"/>
+ <circle cx="38" cy="8" r="2" style="fill:#ee8446;paint-order:stroke fill markers"/>
+ <circle cx="38" cy="7" r="1" style="fill:#fff;opacity:.2;paint-order:stroke fill markers"/>
+</svg>

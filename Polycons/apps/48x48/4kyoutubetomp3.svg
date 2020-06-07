@@ -1,0 +1,11 @@
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="46" height="46" ry="16" style="fill:#23aada;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <path d="m28 12a9 9 0 0 0-8.1641 5.2383 5.5 6 0 0 0-3.3359-1.2383 5.5 6 0 0 0-4.8203 3.1133 8 8 0 0 0-6.6797 7.8867 8 8 0 0 0 8 8h23v-0.07227a8 8 0 0 0 7-7.9277 8 8 0 0 0-6.1875-7.7832 9 9 0 0 0-8.8125-7.2168z" style="opacity:.2;paint-order:stroke fill markers"/>
+ <path d="m28 11a9 9 0 0 0-8.1641 5.2383 5.5 6 0 0 0-3.3359-1.2383 5.5 6 0 0 0-4.8203 3.1133 8 8 0 0 0-6.6797 7.8867 8 8 0 0 0 8 8h23v-0.07227a8 8 0 0 0 7-7.9277 8 8 0 0 0-6.1875-7.7832 9 9 0 0 0-8.8125-7.2168z" style="fill:#fff;paint-order:stroke fill markers"/>
+ <rect x="13" y="24" width="23" height="5" ry="2" style="fill:#ccc;paint-order:stroke fill markers;stroke-width:1.1304"/>
+ <rect x="13" y="25" width="23" height="4" ry="2" style="fill:#2d2d2d;paint-order:stroke fill markers;stroke-width:1.1304"/>
+ <path d="m19 27v11.133c-0.32639-0.08629-0.6624-0.13092-1-0.13281-2.2091 0-4 1.7909-4 4s1.7909 4 4 4 4-1.7909 4-4v-12h10v8.1328c-0.32639-0.08629-0.6624-0.13092-1-0.13281-2.2091 0-4 1.7909-4 4s1.7909 4 4 4 4-1.7909 4-4v-15z" style="fill:#4411a8;paint-order:stroke fill markers"/>
+ <path d="m19 26v11.133c-0.32639-0.08629-0.6624-0.13092-1-0.13281-2.2091 0-4 1.7909-4 4s1.7909 4 4 4 4-1.7909 4-4v-12h10v8.1328c-0.32639-0.08629-0.6624-0.13092-1-0.13281-2.2091 0-4 1.7909-4 4s1.7909 4 4 4 4-1.7909 4-4v-15z" style="fill:#6418e7;paint-order:stroke fill markers"/>
+ <path d="m1 27v4c0 8.864 7.136 16 16 16h14c8.864 0 16-7.136 16-16v-4c0 8.864-7.136 16-16 16h-14c-8.864 0-16-7.136-16-16z" style="opacity:.2;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <rect x="19" y="26" width="16" height="1" style="opacity:.2;paint-order:stroke fill markers"/>
+</svg>

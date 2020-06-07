@@ -1,0 +1,16 @@
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="46" height="46" ry="16" style="fill:#bbd9ee;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <path d="m31 23a8 4 0 0 0-8 4 8 4 0 0 0 8 4 8 4 0 0 0 8-4 8 4 0 0 0-8-4zm-15 3a8 4 0 0 0-8 4 8 4 0 0 0 8 4 8 4 0 0 0 4.9062-0.84375 8 4 0 0 0-0.90625 1.8438 8 4 0 0 0 8 4 8 4 0 0 0 8-4 8 4 0 0 0-8-4 8 4 0 0 0-4.9062 0.84375 8 4 0 0 0 0.90625-1.8438 8 4 0 0 0-8-4z" style="opacity:.1;paint-order:stroke fill markers"/>
+ <path d="m1 27v4c0 8.864 7.136 16 16 16h14c8.864 0 16-7.136 16-16v-4c0 8.864-7.136 16-16 16h-14c-8.864 0-16-7.136-16-16z" style="opacity:.2;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <ellipse cx="-10.78" cy="24.254" rx="11.797" ry="9.4068" style="opacity:0;paint-order:stroke fill markers"/>
+ <circle cx="31" cy="19" r="10" style="fill:#ea1515;paint-order:stroke fill markers"/>
+ <circle cx="31" cy="17" r="8" style="fill:#b4102e;paint-order:stroke fill markers"/>
+ <ellipse cx="31" cy="15" rx="6" ry="5" style="fill:#fff;opacity:.2;paint-order:stroke fill markers;stroke-width:1.0541"/>
+ <circle cx="16" cy="21" r="10" style="fill:#0f0;paint-order:stroke fill markers"/>
+ <circle cx="16" cy="21" r="10" style="fill:#1ce31c;paint-order:stroke fill markers"/>
+ <circle cx="16" cy="19" r="8" style="fill:#16b62f;paint-order:stroke fill markers"/>
+ <ellipse cx="16" cy="17" rx="6" ry="5" style="fill:#fff;opacity:.2;paint-order:stroke fill markers;stroke-width:1.0541"/>
+ <circle cx="28" cy="27" r="10" style="fill:#1a1ae5;paint-order:stroke fill markers"/>
+ <circle cx="28" cy="25" r="8" style="fill:#1e14b3;paint-order:stroke fill markers"/>
+ <ellipse cx="28" cy="23" rx="6" ry="5" style="fill:#fff;opacity:.2;paint-order:stroke fill markers;stroke-width:1.0541"/>
+</svg>
