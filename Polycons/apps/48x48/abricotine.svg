@@ -1,0 +1,6 @@
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="46" height="46" ry="16" style="fill:#e87a32;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <path d="m1 27v4c0 8.864 7.136 16 16 16h14c8.864 0 16-7.136 16-16v-4c0 8.864-7.136 16-16 16h-14c-8.864 0-16-7.136-16-16z" style="opacity:.2;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <path d="m30 8-4 2v8.334l-6.0742 3.2891-7.9258-4.623v4l4.3711 2.5488-6.3711 3.4512 4 2 6.0742-3.291 5.9258 3.457v8.834l4-2v-4.5l6 3.5v-4l-6-3.5v-7.166l8-4.334-4-2-4 2.166zm-4 14.5v2.666l-2.3691-1.3828z" style="opacity:.2"/>
+ <path d="m30 7-4 2v8.334l-6.0742 3.2891-7.9258-4.623v4l4.3711 2.5488-6.3711 3.4512 4 2 6.0742-3.291 5.9258 3.457v8.834l4-2v-4.5l6 3.5v-4l-6-3.5v-7.166l8-4.334-4-2-4 2.166v-8.166zm-4 14.5v2.666l-2.3691-1.3828 2.3691-1.2832z" style="fill:#f9f9f9"/>
+</svg>

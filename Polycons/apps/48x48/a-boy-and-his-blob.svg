@@ -1,0 +1,17 @@
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient940" x1="1" x2="47" y1="13" y2="2" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#143167" offset="0"/>
+   <stop style="stop-color:#2172ab" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m17 1c-8.864 0-16 7.136-16 16v14c0 4.0029 1.4645 7.6453 3.877 10.445l42.123-21.211v-3.2344c0-8.864-7.136-16-16-16h-14z" style="fill:url(#linearGradient940);font-variant-east_asian:normal;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <path d="m47 20.234c-2.6011 0.59009-16.998 3.9465-24 7.7656-6.6453 3.6247-13.614 9.4097-18.123 13.445 2.9297 3.4004 7.2619 5.5547 12.123 5.5547h14c8.864 0 16-7.136 16-16v-10.766z" style="fill:#3c861e"/>
+ <path d="m26.467 11.295c-1.7171 0.01157-3.6017 0.24822-5.6914 0.73047-2.3614 0.54494-4.1299 2.0398-5.3145 3.9902-1.1845 1.9504-1.8439 4.3511-2.1836 6.918-0.6794 5.1337-0.07334 10.966 0.74023 15.252 0.59016 3.109 2.7986 6.7576 4.125 8.8145h12.857c8.864 0 16-7.136 16-16v-3.8594c-0.01692-4.3e-4 -0.03386-4.3e-4 -0.05078 0-0.91952 0.04648-2.2027-0.0582-3.0742-1.627-2.1107-3.7992-4.0653-7.3168-6.7148-9.9453-2.6495-2.6286-6.0579-4.3047-10.693-4.2734z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#2d2d2d;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m26.473 12.295c-1.6299 0.010986-3.4414 0.23633-5.4727 0.70508-8.3505 1.927-7.5982 16.58-6 25 0.56911 2.9981 3.0978 7.1244 4.3262 9h11.674c8.864 0 16-7.136 16-16v-2.8613c-1.1199 0.056611-2.9176-0.19037-4-2.1387-4.2188-7.5938-7.7256-13.764-16.527-13.705z" style="fill:#f9f9f9"/>
+ <path d="m1 27v4c0 8.864 7.136 16 16 16h14c8.864 0 16-7.136 16-16v-4c0 8.864-7.136 16-16 16h-14c-8.864 0-16-7.136-16-16z" style="opacity:.2;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <ellipse cx="19" cy="22.5" rx="2" ry="2.5" style="fill:#3e7998;paint-order:stroke fill markers"/>
+ <ellipse cx="29" cy="20.5" rx="2" ry="2.5" style="fill:#3e7998;paint-order:stroke fill markers"/>
+ <path d="m17 28 17-4s3 10-5 12-12-8-12-8z" style="fill:#95b7e7"/>
+ <path d="m30 28a6 5 0 0 0-6 5 6 5 0 0 0 1.2812 3.084c1.1257 0.24305 2.3634 0.25486 3.7188-0.083984 3.8083-0.95208 5.1122-3.7155 5.4453-6.3516a6 5 0 0 0-4.4453-1.6484z" style="fill:#6f87b8;paint-order:stroke fill markers"/>
+</svg>
