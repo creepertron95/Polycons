@@ -1,0 +1,22 @@
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient907" x1="24" x2="24" y1="13" y2="19" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#f9f9f9" offset="0"/>
+   <stop style="stop-color:#cbcbcb" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="1" y="1" width="46" height="46" ry="16" style="fill:#dadada;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <rect x="16" y="9" width="16" height="24" ry="2" style="fill:#b6b6b6;paint-order:stroke fill markers"/>
+ <rect x="17" y="10" width="14" height="22" ry="1" style="fill:#959595;paint-order:stroke fill markers"/>
+ <path d="m1 27v4c0 8.864 7.136 16 16 16h14c8.864 0 16-7.136 16-16v-4c0 8.864-7.136 16-16 16h-14c-8.864 0-16-7.136-16-16z" style="opacity:.2;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <path d="m9 7a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm30 0a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm-30 27a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2zm30 0a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z" style="opacity:.1;paint-order:stroke fill markers"/>
+ <circle cx="9" cy="8" r="2" style="fill:#949494;paint-order:stroke fill markers"/>
+ <circle cx="39" cy="8" r="2" style="fill:#949494;paint-order:stroke fill markers"/>
+ <circle cx="9" cy="35" r="2" style="fill:#949494;paint-order:stroke fill markers"/>
+ <circle cx="39" cy="35" r="2" style="fill:#949494;paint-order:stroke fill markers"/>
+ <rect x="18" y="11" width="12" height="20" style="fill:#2d2d2d;paint-order:stroke fill markers"/>
+ <rect x="20" y="23" width="8" height="11" style="opacity:.2;paint-order:stroke fill markers"/>
+ <rect x="20" y="28" width="8" height="5" style="fill:#cbcbcb;paint-order:stroke fill markers;stroke-width:.8165"/>
+ <rect x="20" y="19" width="8" height="10" style="fill:#f9f9f9;paint-order:stroke fill markers"/>
+ <rect x="20" y="13" width="8" height="6" style="fill:url(#linearGradient907);paint-order:stroke fill markers;stroke-width:.82808"/>
+</svg>

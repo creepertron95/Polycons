@@ -1,0 +1,8 @@
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="46" height="46" ry="16" style="fill:#18cdac;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <path d="m1 27v4c0 8.864 7.136 16 16 16h14c8.864 0 16-7.136 16-16v-4c0 8.864-7.136 16-16 16h-14c-8.864 0-16-7.136-16-16z" style="opacity:.2;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <rect x="4" y="4" width="40" height="36" ry="13" style="fill:#0d5b4a;paint-order:stroke fill markers"/>
+ <path d="m17 4c-7.202 0-13 5.798-13 13v1c0-7.202 5.798-13 13-13h14c7.202 0 13 5.798 13 13v-1c0-7.202-5.798-13-13-13h-14z" style="opacity:.2;paint-order:stroke fill markers"/>
+ <path d="m15 13v1l-5 19h3l1.5039-6h5.8809l1.6152 6h3l-6-20h-4zm2.3398 2.6953 2.2363 8.3047h-4.3184l2.082-8.3047zm9.6602 2.3047v11c0 3 2.8656 4 5 4 3 0 5-1 5-1v-14h-3v12h-2c-1 0-2-1-2-2v-10h-3z" style="opacity:.2"/>
+ <path d="m15 12v1l-5 19h3l1.5039-6h5.8809l1.6152 6h3l-6-20h-4zm2.3398 2.6953 2.2363 8.3047h-4.3184l2.082-8.3047zm9.6602 2.3047v11c0 3 2.8656 4 5 4 3 0 5-1 5-1v-14h-3v12h-2c-1 0-2-1-2-2v-10h-3z" style="fill:#18cdac"/>
+</svg>

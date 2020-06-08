@@ -1,0 +1,8 @@
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <rect x="1" y="1" width="46" height="46" ry="16" style="fill:#c78af1;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <path d="m1 27v4c0 8.864 7.136 16 16 16h14c8.864 0 16-7.136 16-16v-4c0 8.864-7.136 16-16 16h-14c-8.864 0-16-7.136-16-16z" style="opacity:.2;paint-order:stroke fill markers;stroke-width:1.0455"/>
+ <rect x="4" y="4" width="40" height="36" ry="13" style="fill:#320d5b;paint-order:stroke fill markers"/>
+ <path d="m17 4c-7.202 0-13 5.798-13 13v1c0-7.202 5.798-13 13-13h14c7.202 0 13 5.798 13 13v-1c0-7.202-5.798-13-13-13h-14z" style="opacity:.2;paint-order:stroke fill markers"/>
+ <path d="m20 13c-4.4845 0-9 4-9 10s4.5155 10 9 10c2 0 3-1 3-1v-3s-1 1-3 1c-3 0-5-2-5-7s1.9268-7 5-7c2 0 3 1 3 1v-3s-1-1-3-1zm6 0v8 4 8h3v-8-3s0-1 2-1c1 0 2 1 2 2v10h3v-11c0-3-2-4-3-4-2 0-2.7407 0.55597-4 1.1855v-6.1855h-3z" style="opacity:.2"/>
+ <path d="m20 12c-4.4845 0-9 4-9 10s4.5155 10 9 10c2 0 3-1 3-1v-3s-1 1-3 1c-3 0-5-2-5-7s1.9268-7 5-7c2 0 3 1 3 1v-3s-1-1-3-1zm6 0v8 4 8h3v-8-3s0-1 2-1c1 0 2 1 2 2v10h3v-11c0-3-2-4-3-4-2 0-2.7407 0.55597-4 1.1855v-6.1855h-3z" style="fill:#c78af1"/>
+</svg>
